@@ -2,8 +2,9 @@
 [![X : HorusTFinance](https://img.shields.io/badge/-HorusTFinance-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/HorusTFinance/)](https://x.com/HorusTFinance/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcashsight.fr%2F&style=flat-square&label=Cash%20Sights)](https://cashsight.fr/)
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://x.com/HorusTFinance">
+  <img align="right" alt="Horus Turboss Finance | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <!-- Thanks to @anuraghazru for your content ! I'm great fan 💖 -->
 </a>
 
 [![Hello there, I'm Horus ! I love dev, I'm always learning useful things...and i always raging about bugs](https://readme-typing-svg.herokuapp.com?lines=Hello+there,+I'm+Horus👋🏻;I+love+dev;I'm+always+learning+useful+things;...and+I+always+raging+about+bugs&center=auto&width=500&height=50)](https://github.com/DenverCoder1/readme-typing-svg)
