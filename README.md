@@ -24,7 +24,10 @@
   <h4>About me</h4>
   <ul>
     <li>
-      <small>💼 Founder <a href="https://cashsight.fr/">@Cash Sights</a> — still building.</small>
+      <small>💼 Founder <a href="https://cashsight.fr/">@Cash Sights</a> — in pause.</small>
+    </li>
+    <li>
+      <small>💭 Trying to create a trading model and risk analyzer for my own financial management.</small>
     </li>
     <li>
       <small>❤️ I write TypeScript and craft smooth, unrestricted experiences.</small>
