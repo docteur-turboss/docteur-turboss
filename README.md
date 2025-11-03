@@ -24,13 +24,13 @@
   <h4>About me</h4>
   <ul>
     <li>
-      <small>💼 Founder <a href="https://cashsight.fr/">@Cash Sights</a> — in pause.</small>
+      <small>💼 Founder <a href="https://cashsight.fr/">@Cash Sights</a> — in pause</small>
     </li>
     <li>
-      <small>💭 Trying to create a trading model and risk analyzer for my own financial management.</small>
+      <small>💭 Trying to create a trading model and risk analyzer for my own financial management</small>
     </li>
     <li>
-      <small>❤️ I write TypeScript and craft smooth, unrestricted experiences.</small>
+      <small>❤️ I write TypeScript and craft smooth, unrestricted experiences</small>
     </li>
     <li>
       <small>💬 Ask me anything <a href="https://github.com/docteur-turboss/docteur-turboss/issues">here</a></small>
