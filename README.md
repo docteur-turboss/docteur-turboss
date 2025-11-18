@@ -8,7 +8,6 @@
 	<div display="flex">
 		<a href="https://x.com/HorusTFinance/"><img alt="Horus Turboss Finance | X" src="https://img.shields.io/badge/HorusTFinance-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 		<a href="https://www.linkedin.com/in/thomas-gille-cherbonnel/"><img alt="Thomas Cherbonnel | linkedin" src="https://img.shields.io/badge/-Thomas%20Cherbonnel-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/thomas-gille-cherbonnel/" /></a>
-		<a href="https://cashsight.fr/"><img alt="Website" src="https://img.shields.io/badge/Cash%20Sights-EFCB8C?style=for-the-badge" /></a>
 	</div>
   <br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=EFCB8C&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Horus%F0%9F%91%8B%F0%9F%8F%BB;I+love+dev+;I'm+always+learning+useful+things;...and+I+always+raging+about+bugs" alt="Typing SVG" /></a>
