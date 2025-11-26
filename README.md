@@ -85,7 +85,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=docteur-turboss&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" width="800" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=docteur-turboss&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&lol=2" height="150" width="800" alt="trophy graph"  />
   <br/>
   <br/>
   <br/>
