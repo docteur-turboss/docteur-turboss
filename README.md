@@ -164,3 +164,85 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- REPO ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="16" /> &nbsp;Repo Analytics
+</h2>
+
+<div align="center">
+
+<img src="https://repobeats.axiom.co/api/embed/1d0a2b6695f5df56a338a0d442420ca74fed0242.svg" alt="Repobeats analytics image" width="100%" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION PACMAN -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="16" /> &nbsp;Contribution PacMan
+</h2>
+
+<div align="center">
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/docteur-turboss/docteur-turboss/output/pacman-contribution-graph-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/docteur-turboss/docteur-turboss/output/pacman-contribution-graph.svg">
+	<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/docteur-turboss/docteur-turboss/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📚 THE LIBRARY — REPOSITORY SHELVES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+
+<div align="center">
+	<h1>
+	  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;My projects
+	</h1>
+</div>
+
+<div align="center">
+	<a href="https://github.com/docteur-turboss/discord-horus-bot" target="_blank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=docteur-turboss&repo=discord-horus-bot&theme=vue-dark"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/docteur-turboss/trading-model" target="_blank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=docteur-turboss&repo=trading-model&theme=vue-dark"/></a>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/><br/><br/>
+<div align="center">
+	
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+
+</div>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DEV QUOTE & FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="12"  /> Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<br/>
+</div>
