@@ -8,6 +8,17 @@
 
 </div>
 
+
+<div align="center">
+	<a href="https://github.com/docteur-turboss"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/489453467639742465"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /></a> &nbsp;&nbsp;&nbsp; <a href="https://gist.github.com/docteur-turboss"><img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Gists" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://www.twitch.tv/horusturboss"><img src="https://cdn.simpleicons.org/twitch/9146ff" width="40" alt="Twitch" /></a>
+	<br>
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
+
+
 <div>
   I am a passionate self-taught full-stack developer from France 🇫🇷
   
