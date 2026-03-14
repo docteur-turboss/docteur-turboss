@@ -1,21 +1,12 @@
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/81076765?v=4" alt="User pp" width="148px" />
-</div>
+	<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Horus%20Turboss&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20&descSize=18&descAlignY=52" />
+	<br/>
+	
+[![Profile Views](https://komarev.com/ghpvc/?username=docteur-turboss&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/docteur-turboss) [![GitHub followers](https://img.shields.io/github/followers/docteur-turboss?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/docteur-turboss?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/docteur-turboss?label=Total%20Stars&style=for-the-badge&logo=github&color=f5c842)](https://github.com/docteur-turboss)
 
-<div align="center">
-  <h1>👋🏻 Welcome here</h1>
-  <br/>
-	<div display="flex">
-		<a href="https://x.com/HorusTFinance/"><img alt="Horus Turboss Finance | X" src="https://img.shields.io/badge/HorusTFinance-black?style=for-the-badge&logo=X&logoColor=white" /></a>
-		<a href="https://www.linkedin.com/in/thomas-gille-cherbonnel/"><img alt="Thomas Cherbonnel | linkedin" src="https://img.shields.io/badge/-Thomas%20Cherbonnel-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/thomas-gille-cherbonnel/" /></a>
-	</div>
-  <br/>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=EFCB8C&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Horus%F0%9F%91%8B%F0%9F%8F%BB;I+love+dev+;I'm+always+learning+useful+things;...and+I+always+raging+about+bugs" alt="Typing SVG" /></a>
-  <br/>
-  <br/>
-  <br/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=EFCB8C&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Horus%F0%9F%91%8B%F0%9F%8F%BB;I+love+dev+;I'm+always+learning+useful+things;...and+I+always+raging+about+bugs" alt="Typing SVG" /></a>
 
+</div>
 
 <div>
   I am a passionate self-taught full-stack developer from France 🇫🇷
