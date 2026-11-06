@@ -179,8 +179,6 @@ My personal site. React 19 · Vite · Tailwind 4 · Motion.
 
 <!-- C'était un beau répo que j'ai pompé fox3000foxy ~ -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=docteur-turboss&theme=vue&hide_border=true&area=true" alt="Contribution Graph" />
-
 <img src="https://repobeats.axiom.co/api/embed/1d0a2b6695f5df56a338a0d442420ca74fed0242.svg" alt="Repobeats analytics image" width="100%" />
 
 </div>
