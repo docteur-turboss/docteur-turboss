@@ -161,18 +161,18 @@ My personal site. React 19 · Vite · Tailwind 4 · Motion.
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=docteur-turboss&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Readme Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=docteur-turboss&show_icons=true&theme=vue-dark&animation=sequence&hide_border=true" alt="GitHub Readme Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=docteur-turboss&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=docteur-turboss&layout=compact&theme=vue-dark&animation=sequence&hide_border=true" alt="Top Languages" />
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=docteur-turboss&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=docteur-turboss&theme=vue-dark&animation=sequence&hide_border=true" alt="GitHub Streak" />
 </td>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=docteur-turboss&theme=noctis_minimus&utcOffset=1" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=docteur-turboss&animation=sequence&theme=noctis_minimus&utcOffset=1" alt="Productive Time" />
 </td>
 </tr>
 </table>
